@@ -1,0 +1,15 @@
+C:\Users\www\RiderProjects\SPR7\SPR7\bin\Debug\net7.0\SPR7.exe
+C:\Users\www\RiderProjects\SPR7\SPR7\bin\Debug\net7.0\SPR7.deps.json
+C:\Users\www\RiderProjects\SPR7\SPR7\bin\Debug\net7.0\SPR7.runtimeconfig.json
+C:\Users\www\RiderProjects\SPR7\SPR7\bin\Debug\net7.0\SPR7.dll
+C:\Users\www\RiderProjects\SPR7\SPR7\bin\Debug\net7.0\SPR7.pdb
+C:\Users\www\RiderProjects\SPR7\SPR7\obj\Debug\net7.0\SPR7.csproj.AssemblyReference.cache
+C:\Users\www\RiderProjects\SPR7\SPR7\obj\Debug\net7.0\SPR7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\www\RiderProjects\SPR7\SPR7\obj\Debug\net7.0\SPR7.AssemblyInfoInputs.cache
+C:\Users\www\RiderProjects\SPR7\SPR7\obj\Debug\net7.0\SPR7.AssemblyInfo.cs
+C:\Users\www\RiderProjects\SPR7\SPR7\obj\Debug\net7.0\SPR7.csproj.CoreCompileInputs.cache
+C:\Users\www\RiderProjects\SPR7\SPR7\obj\Debug\net7.0\SPR7.dll
+C:\Users\www\RiderProjects\SPR7\SPR7\obj\Debug\net7.0\refint\SPR7.dll
+C:\Users\www\RiderProjects\SPR7\SPR7\obj\Debug\net7.0\SPR7.pdb
+C:\Users\www\RiderProjects\SPR7\SPR7\obj\Debug\net7.0\SPR7.genruntimeconfig.cache
+C:\Users\www\RiderProjects\SPR7\SPR7\obj\Debug\net7.0\ref\SPR7.dll
